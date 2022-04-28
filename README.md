@@ -9,7 +9,6 @@ Nossa ideia principal será a implantação de um sistema de controle de resídu
 <h3>Possibilidades</h3>
 
 <ul>
-    <li>possibilidades</li>
     <br>
     <li>Gráficos de meses/anteriores
       <ul>
