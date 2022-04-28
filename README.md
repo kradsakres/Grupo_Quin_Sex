@@ -34,4 +34,5 @@ Nossa ideia principal será a implantação de um sistema de controle de resídu
 <li>Gustavo Alexandre Silva Araujo - 119127054</li>
 <li>Matheus Vieira Meneghini -11917657</li>
 <li>Vinícius Borges Costa Pereira 119126420</li>
+<li>Maria Eduarda Couto Santos - 119126109</li>
 </ul>
