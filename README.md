@@ -6,7 +6,7 @@
 Nossa ideia principal será a implantação de um sistema de controle de resíduos que seriam descartados por uma ou mais empresas, controlando sua saída , volume e o tipos de produtos que serão descartados, contando com o um feedback todos os meses mantendo um controle do que vai ser coletado com agenda e registro, gerando gráficos contendo e suas estatísticas mantendo o contato com empresas parceiras para a coleta dos itens .
 
 
-Possibilidades
+##Possibilidades
 
 Gráficos de meses/anteriores
   tomada de decisão de acordo com o fluxo de descarte e tipo de produtos.
