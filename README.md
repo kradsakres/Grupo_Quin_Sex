@@ -36,3 +36,6 @@ Nossa ideia principal será a implantação de um sistema de controle de resídu
 <li>Vinícius Borges Costa Pereira 119126420</li>
 <li>Maria Eduarda Couto Santos - 119126109</li>
 </ul>
+
+
+https://github.com/gusttavodev/recycling_front
